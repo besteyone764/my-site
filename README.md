@@ -12,3 +12,6 @@ This is an edit to resolve issues.
 This is a README for a purpose
 
 This is an edit to showing the differences between git command and GitHub
+
+
+## How To
